@@ -1,14 +1,19 @@
 ### Maniruzzaman Jubayer
 
-UI/UX designer and design lead in Dhaka, Bangladesh. I lead a team of 6+ designers that designs and builds SaaS, fintech and AI products, websites and mobile apps: web apps and front ends in React and Next.js, iOS and Android apps in React Native or Flutter.
+Design engineer in Dhaka, Bangladesh. I design web and mobile products and build them in code, from the first flow to launch: web apps and front ends in React and Next.js, iOS and Android apps in React Native or Flutter.
 
-**What we do**
+**What I do**
 
+- [Design engineering](https://maniruzzamanjubayer.com/design-engineering)
 - [Product design](https://maniruzzamanjubayer.com/product-design)
 - [Website design](https://maniruzzamanjubayer.com/website-design)
 - [Mobile app design](https://maniruzzamanjubayer.com/mobile-app-design)
 - [Landing page design](https://maniruzzamanjubayer.com/landing-page-design)
 - [Development](https://maniruzzamanjubayer.com/development)
+
+**Free tools**
+
+[Ten free browser tools for product teams](https://maniruzzamanjubayer.com/tools): token counter, color contrast grid, design tokens to Tailwind, SVG to JSX, fluid type calculator and more. They run in the browser, with no sign-up.
 
 **Writing**
 
